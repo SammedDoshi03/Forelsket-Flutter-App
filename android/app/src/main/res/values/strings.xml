@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Forelsket</string>
+    <string name="facebook_app_id">560098928769295</string>
+    <string name="fb_login_protocol_scheme">fb560098928769295</string>
+</resources>

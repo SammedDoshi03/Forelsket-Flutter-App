@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374742389832",
+    "project_id": "forelsket-5b08d",
+    "storage_bucket": "forelsket-5b08d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374742389832:android:66e4d672c955eb5a31747d",
+        "android_client_info": {
+          "package_name": "com.adsam.forelsket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374742389832-3s9ql7q2fkr6fvc4m543pa2jlsbm3pf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adsam.forelsket",
+            "certificate_hash": "0cdf477e1e908405a1e0afde5d08b05bbb633162"
+          }
+        },
+        {
+          "client_id": "374742389832-saabkpft7874pem8p79fbbii1ugnou9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKH_4AwTeNB9-E9JhvDx-fjIO1uHknpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374742389832-saabkpft7874pem8p79fbbii1ugnou9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
